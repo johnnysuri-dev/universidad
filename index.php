@@ -44,7 +44,7 @@
   <div class="jumbotron mt-3">
     <h1>Bienvenidos al sistema de practicas</h1>
     <p class="lead">Aqui encontrams los diferentes actividades para realizar practicas.</p>
-    <a class="btn btn-lg btn-primary" href="vistas/ListaArchivos.php" role="button">Ingresa al menu principal &raquo;</a>
+    <a class="btn btn-lg btn-primary" href="vistas/ListaArchivos.php" role="button">Ingresa al menu principal ya... &raquo;</a>
   </div>
 </div>
 
